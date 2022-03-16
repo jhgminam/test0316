@@ -65,6 +65,7 @@
 		<li>3번</li>
 		<li>4번</li>
 		<li>5번</li>
+		<li>6번</li>
 	</ul>
 	
     <form:form commandName="searchVO" id="listForm" name="listForm" method="post">
